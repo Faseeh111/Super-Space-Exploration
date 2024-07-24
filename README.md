@@ -1,2 +1,2 @@
 # Super-Space-Exploration
-Super Space Exploration
+Implemented a text-based space exploration game in C++ to practice class inheritance, pointers, and polymorphism. Created dynamic classes for ships, items, and planets with unique attributes and interactions. Developed gameplay mechanics including resource mining, combat with enemy planets, and ship upgrades. Ensured robust user input validation and efficient memory management.
